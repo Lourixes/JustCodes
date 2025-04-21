@@ -2,7 +2,7 @@
 privacy-friendly browser extension that helps users find current discount codes and vouchers
 
 
-# JustCodes – Datenschutzfreundliche Rabattcode-Erweiterung 🦊
+# JustCodes – Datenschutzfreundliche Rabattcode-Erweiterung 
 
 **JustCodes** ist eine moderne, datenschutzorientierte Browser-Erweiterung,  
 die Nutzer*innen beim Online-Shopping unterstützt, indem sie funktionierende Rabattcodes anzeigt –  
@@ -38,11 +38,11 @@ Nur das, was du wirklich brauchst: **Rabattcodes.**
 
 ## 💡 Funktionsübersicht
 
-- 🦊 **Website-Erkennung**: Codes werden direkt für die besuchte Website angezeigt
-- 🔎 **Intelligente Suche**: Codes zu Shops und Produkten manuell durchsuchbar
-- 🗳️ **Voting-System**: Nutzer können die Wirksamkeit von Codes bewerten
-- 🔗 **Affiliate-Unterstützung**: Optionale Partnerlinks zur Unterstützung des Projekts – transparent und freiwillig
-- 🔐 **Privatsphäre im Fokus**: Keine Erhebung personenbezogener Daten
+- **Website-Erkennung**: Codes werden direkt für die besuchte Website angezeigt
+- **Intelligente Suche**: Codes zu Shops und Produkten manuell durchsuchbar
+- **Voting-System**: Nutzer können die Wirksamkeit von Codes bewerten
+- **Affiliate-Unterstützung**: Optionale Partnerlinks zur Unterstützung des Projekts – transparent und freiwillig
+- **Privatsphäre im Fokus**: Keine Erhebung personenbezogener Daten
 
 ---
 
@@ -85,7 +85,7 @@ Du darfst es verwenden, kopieren, verändern, solange du die ursprünglichen Urh
 ## ✨ Mitmachen
 
 Du hast Ideen, Kritik oder willst mithelfen?  
-Issues, Pull Requests und sinnvolle Ergänzungen sind jederzeit willkommen!
+Issues und sinnvolle Ergänzungen sind jederzeit willkommen!
 
 ---
 
