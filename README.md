@@ -68,8 +68,7 @@ Bei Interesse an einer Zusammenarbeit (z. B. exklusive Gutscheincodes, Feed-Zu
 
 ## ⚖️ Lizenz
 
-Dieses Projekt steht unter der Creative Commons "CC BY-NC"- Lizenz.  
-Du darfst es verwenden, kopieren, verändern, insofern dies nicht für kommerzielle Zwecke geschieht.
+Dieses Projekt steht unter der "Creative Commons Zero v1.0 Universal"- Lizenz.  
 
 ---
 
